@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# OpenCMISS for placenta and lung documentation build configuration file, created by
+# python for placenta and lung documentation build configuration file, created by
 # sphinx-quickstart on Tue Nov 14 14:30:12 2017.
 #
 # This file is execfile()d with the current directory set to its
@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'OpenCMISS for placenta and lung'
+project = u'python for placenta and lung'
 copyright = u'2017, Alys R Clark'
 author = u'Alys R Clark'
 
@@ -100,7 +100,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'OpenCMISSforplacentaandlungdoc'
+htmlhelp_basename = 'pythonforplacentaandlungdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -127,7 +127,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'OpenCMISSforplacentaandlung.tex', u'OpenCMISS for placenta and lung Documentation',
+    (master_doc, 'pythonforplacentaandlung.tex', u'python for placenta and lung Documentation',
      u'Alys R Clark', 'manual'),
 ]
 
@@ -137,7 +137,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'opencmissforplacentaandlung', u'OpenCMISS for placenta and lung Documentation',
+    (master_doc, 'pythonforplacentaandlung', u'python for placenta and lung Documentation',
      [author], 1)
 ]
 
@@ -148,8 +148,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'OpenCMISSforplacentaandlung', u'OpenCMISS for placenta and lung Documentation',
-     author, 'OpenCMISSforplacentaandlung', 'One line description of project.',
+    (master_doc, 'pythonforplacentaandlung', u'python for placenta and lung Documentation',
+     author, 'pythonforplacentaandlung', 'One line description of project.',
      'Miscellaneous'),
 ]
 
