@@ -63,7 +63,7 @@ instance/
 
 # Sphinx documentation
 docs/_build/
-documentation/_build/
+#documentation/_build/
 
 #Mac stuff
 .DS_Store
